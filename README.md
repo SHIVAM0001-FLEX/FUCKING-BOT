@@ -1,2 +1,2 @@
-# FUCKING-BOT
-FUCKING BOT
+# dmall
+Working Discord Mass Dm bot
